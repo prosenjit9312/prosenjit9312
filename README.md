@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-Cloud & DevOps Engineer with **8+ years of experience in Cloud Networking** and **4 years in DevOps**.  
+Cloud & DevSecOps Engineer with **8+ years of experience in Cloud Networking** and **4 years in DevOps**.  
 Passionate about **Infrastructure as Code (IaC)**, **Automation**, **Monitoring**, and **Security**.
 
 ---
